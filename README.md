@@ -1,1 +1,1 @@
-# Randomized SVD
+# Codice ausiliario per SVD Randomizzata
